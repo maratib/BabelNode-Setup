@@ -1,6 +1,6 @@
 # Babel 7 Setup
 
-Babel7, Node setup for command line and server creations
+Babel7, Node setup for command line and server developments (Using ES6, ES7 etc.)
 
 ```bash
 # clone the project
