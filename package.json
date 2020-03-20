@@ -9,7 +9,7 @@
     "build": "babel src --out-dir dist",
     "serve": "node dist/server.js"
   },
-  "author": "",
+  "author": "Maratib Ali Khan",
   "license": "ISC",
   "babel": {
     "presets": [
